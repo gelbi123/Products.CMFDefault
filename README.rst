@@ -9,6 +9,8 @@
         :target: https://pypi.org/project/Products.CMFDefault/
         :alt: Supported Python versions
 
+This fork is used for my Zope4 buildout
+with customized code.
 
 Products.CMFDefault
 ===================
